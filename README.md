@@ -1,4 +1,4 @@
-This repository contains codes and supplementary videos relating to Chockalingam Senthilnathan's PhD thesis. The following resources were used during the development of these codes:
+This repository contains codes and supplementary videos relating to Chockalingam Senthilnathan's PhD thesis (https://dspace.mit.edu/handle/1721.1/155402). The following resources were used during the development of these codes:
 
 1. Anand, L.: Introduction to Coupled Theories in Solid Mechanics. Unpublished MIT 2.077 course notes (2023).
 2. E. M. Stewart and L. Anand. Example codes for coupled theories in solid mechanics, 2023. URL https://github.com/SolidMechanicsCoupledTheories/example_codes.
@@ -21,7 +21,7 @@ Supplementary videos are available in the Supplementary Videos folder.
 
 If you use these codes in your own research, cite the following:
 
-1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL https://github.com/chockalingamsenthilnathan/Phd_Thesis_temp 
+1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL [https://github.com/chockalingamsenthilnathan/Phd_Thesis_temp](https://github.com/chockalingamsenthilnathan/PhD_Thesis) 
 2. Chockalingam, S., & Cohen, T. (2024). [A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms.](https://www.sciencedirect.com/science/article/pii/S0022509624000930) Journal of the Mechanics and Physics of Solids, 105627.
 3. Chockalingam, S. and Cohen, T., 2024, Explaining morphogenesis under mechanical confinement using a large deformation swelling-growth theory (in preparation). 
 4. Anand, L.: Introduction to Coupled Theories in Solid Mechanics. Unpublished MIT 2.077 course notes (2023).
