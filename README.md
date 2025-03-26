@@ -21,7 +21,7 @@ Supplementary videos are available in the Supplementary Videos folder.
 
 If you use these codes in your own research, cite the following:
 
-1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL [https://github.com/chockalingamsenthilnathan/Phd_Thesis_temp](https://github.com/chockalingamsenthilnathan/PhD_Thesis) 
+1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL [https://github.com/chockalingamsenthilnathan/Phd_Thesis](https://github.com/chockalingamsenthilnathan/PhD_Thesis) 
 2. Chockalingam, S., & Cohen, T. (2024). [A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms.](https://www.sciencedirect.com/science/article/pii/S0022509624000930) Journal of the Mechanics and Physics of Solids, 105627.
 3. Chockalingam, S. and Cohen, T., 2024, Explaining morphogenesis under mechanical confinement using a large deformation swelling-growth theory (in preparation). 
 4. Anand, L.: Introduction to Coupled Theories in Solid Mechanics. Unpublished MIT 2.077 course notes (2023).
