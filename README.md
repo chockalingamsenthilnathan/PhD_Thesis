@@ -21,8 +21,9 @@ Supplementary videos are available in the Supplementary Videos folder.
 
 If you use these codes in your own research, cite the following:
 
-1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL [https://github.com/chockalingamsenthilnathan/Phd_Thesis](https://github.com/chockalingamsenthilnathan/PhD_Thesis) 
-2. Chockalingam, S., & Cohen, T. (2024). [A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms.](https://www.sciencedirect.com/science/article/pii/S0022509624000930) Journal of the Mechanics and Physics of Solids, 105627.
-3. Chockalingam, S. and Cohen, T., 2024, Explaining morphogenesis under mechanical confinement using a large deformation swelling-growth theory (in preparation). 
-4. Anand, L.: Introduction to Coupled Theories in Solid Mechanics. Unpublished MIT 2.077 course notes (2023).
-5. E. M. Stewart and L. Anand. Example codes for coupled theories in solid mechanics, 2023. URL https://github.com/SolidMechanicsCoupledTheories/example_codes.
+1. Chockalingam, S. and Cohen, T. FEniCS codes for a large deformation swelling-growth theory, 2024. URL [https://github.com/chockalingamsenthilnathan/Phd_Thesis](https://github.com/chockalingamsenthilnathan/PhD_Thesis)
+2. Senthilnathan, C., 2024. Understanding the mechanics of growth: A large deformation theory for coupled swelling-growth and morphogenesis of soft biological systems (Doctoral dissertation, Massachusetts Institute of Technology).
+3. Chockalingam, S., & Cohen, T. (2024). [A large deformation theory for coupled swelling and growth with application to growing tumors and bacterial biofilms.](https://www.sciencedirect.com/science/article/pii/S0022509624000930) Journal of the Mechanics and Physics of Solids, 105627.
+4. Chockalingam, S. and Cohen, T., 2025, Explaining morphogenesis under mechanical confinement using a large deformation swelling-growth theory (in preparation). 
+5. Anand, L.: Introduction to Coupled Theories in Solid Mechanics. Unpublished MIT 2.077 course notes (2023).
+6. E. M. Stewart and L. Anand. Example codes for coupled theories in solid mechanics, 2023. URL https://github.com/SolidMechanicsCoupledTheories/example_codes.
